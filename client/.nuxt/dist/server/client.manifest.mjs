@@ -1,0 +1,1 @@
+export { default } from "file:///B:/Code/Ecole/MiniProjet2-ServiceWeb-main/client/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
